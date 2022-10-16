@@ -218,7 +218,7 @@ section#services {
 .services__section > div {
 	background: #aec9e4;
 	color: white;
-	padding: calc(8px + 0.5vw);
+	padding: calc(15px + 1.2vw);
 }
 
 .services__section > div h1 {
